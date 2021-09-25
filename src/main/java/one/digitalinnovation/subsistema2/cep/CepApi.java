@@ -1,4 +1,4 @@
-package subsistema2.cep;
+package one.digitalinnovation.subsistema2.cep;
 
 public class CepApi {
 

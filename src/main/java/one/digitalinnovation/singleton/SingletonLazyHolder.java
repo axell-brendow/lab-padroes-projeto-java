@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.singleton;
+package one.digitalinnovation.singleton;
 
 /**
  * Singleton "Lazy Holder".

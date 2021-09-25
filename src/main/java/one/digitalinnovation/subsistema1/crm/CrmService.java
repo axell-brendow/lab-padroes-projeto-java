@@ -1,4 +1,4 @@
-package subsistema1.crm;
+package one.digitalinnovation.subsistema1.crm;
 
 public class CrmService {
 
