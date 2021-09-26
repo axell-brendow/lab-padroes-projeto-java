@@ -5,6 +5,8 @@ import one.digitalinnovation.subsistema2.cep.CepApi;
 
 public class Facade {
 	public static void run() {
+		System.out.println("\n------------------------------ FACADE\n");
+
 		Facade facade = new Facade();
 		facade.migrarCliente("Venilton", "14801788");
 	}

@@ -2,6 +2,8 @@ package one.digitalinnovation.strategy;
 
 public class Strategy {
     public static void run() {
+		System.out.println("\n------------------------------ STRATEGY\n");
+
 		Comportamento defensivo = new ComportamentoDefensivo();
 		Comportamento normal = new ComportamentoNormal();
 		Comportamento agressivo = new ComportamentoAgressivo();
